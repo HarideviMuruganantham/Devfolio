@@ -54,7 +54,7 @@ const About2 = ({ clientHeight }) => {
           >
             passion
           </span>{" "}
-          and dedication for learning and contributing to meaningful projects.
+          and dedication for learning and eager to contribute to meaningful projects.
         </h1>
       </div>
     </section>
