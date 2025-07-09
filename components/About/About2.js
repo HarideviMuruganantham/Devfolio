@@ -41,11 +41,7 @@ const About2 = ({ clientHeight }) => {
           ref={quoteRef}
           className="font-medium text-[2.70rem] md:text-6xl lg:text-[4rem] text-center"
         >
-<<<<<<< HEAD
           I have {" "}
-=======
-          I have a{" "}
->>>>>>> 4e31c82d4c26a2afafe0d41a89921685f5649b85
           <span
             className="about-3 font-bold"
             style={{
@@ -56,15 +52,9 @@ const About2 = ({ clientHeight }) => {
               WebkitTextFillColor: "transparent",
             }}
           >
-<<<<<<< HEAD
             passion
           </span>{" "}
           and dedication for learning and eager to contribute to meaningful projects.
-=======
-            strong
-          </span>{" "}
-          obsession for attention to detail.
->>>>>>> 4e31c82d4c26a2afafe0d41a89921685f5649b85
         </h1>
       </div>
     </section>
